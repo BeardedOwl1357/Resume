@@ -1,0 +1,93 @@
+name: 'John Doe'
+info:
+  label: Programmer
+  brief: 'A summary of John Doe…'
+contact:
+  email: john@gmail.com
+  phone: '(912) 555-4321'
+meta:
+  format: FRESH@^1.0.0-beta
+  modified: '2023-07-07T14:16:52.028Z'
+location:
+  city: 'San Francisco'
+  region: California
+  country: US
+  code: 'CA 94115'
+  address: '2712 Broadway St'
+employment:
+  history:
+    -
+      position: President
+      summary: Description…
+      start: '2013-01-01'
+      end: '2014-01-01'
+      keywords: []
+      highlights:
+        - 'Started the company'
+education:
+  level: ""
+  history:
+    -
+      institution: University
+      start: '2011-01-01'
+      end: '2013-01-01'
+      curriculum:
+        - 'DB1101 - Basic SQL'
+      url: 'https://institution.com/'
+      summary: ""
+      area: 'Software Development'
+      studyType: Bachelor
+service:
+  history:
+    -
+      type: volunteer
+      position: Volunteer
+      organization: Organization
+      start: '2012-01-01'
+      end: '2013-01-01'
+      summary: Description…
+      highlights:
+        - 'Awarded ''Volunteer of the Month'''
+skills:
+  sets:
+    -
+      name: 'Web Development'
+      level: Master
+      skills:
+        - HTML
+        - CSS
+        - JavaScript
+writing:
+  -
+    title: Publication
+    publisher: Company
+    date: '2014-10-01'
+    summary: Description…
+recognition:
+  -
+    title: Award
+    date: '2014-11-01'
+    from: Company
+    summary: 'There is no spoon.'
+social:
+  -
+    label: Twitter
+    network: Twitter
+    url: 'https://twitter.com/john'
+    user: john
+interests:
+  -
+    name: Wildlife
+    keywords:
+      - Ferrets
+      - Unicorns
+testimonials:
+  -
+    name: 'Jane Doe'
+    flavor: professional
+    quote: Reference…
+    private: false
+languages:
+  -
+    language: English
+    fluency: 'Native speaker'

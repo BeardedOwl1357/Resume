@@ -1,0 +1,60 @@
+John Doe
+============
+Email: john@gmail.com
+Tel: (912) 555-4321
+
+
+A summary of John Doe…
+
+## SKILLS
+
+  - Web Development: HTML CSS JavaScript 
+
+## EMPLOYMENT
+
+### *President*,  (2013-01 — 2014-01)
+
+Description…
+  - Started the company
+
+
+
+
+## EDUCATION
+
+### [University](https://institution.com/) (2011-01 — 2013-01)
+
+
+
+
+
+
+## WRITING
+
+### ***Publication*** (Company, 2014-10)
+Description…
+
+
+
+## SERVICE
+
+### *Volunteer*, Organization (2012-01 — 2013-01)
+
+Description…
+  - Awarded 'Volunteer of the Month'
+
+
+## RECOGNITION
+
+### Award, Company (Jan 2014)
+There is no spoon.
+
+
+
+
+
+## INTERESTS
+
+- WILDLIFE: Ferrets Unicorns 
+
+
