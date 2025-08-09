@@ -1,19 +1,19 @@
-<details>
-<summary>Education</summary>
 
 # Education Details
+<details>
+<summary>Click to reveal</summary>
 
 ## Hansraj Model School
-### 10th
+### 10th : _May 2017_
 - CGPA : 10
 - Board : CBSE
 
-### 12th
+### 12th : _May 2019_
 - Percentage : 91.4%
 - Board : CBSE
 - Stream : Science (PCM)
 
-## Thapar Institute of Engineering and Technology : August 2023
+## Thapar Institute of Engineering and Technology : _June 2019 to June 2023_
 
 - Degree : B.E. Computer Science and Engineering 
 - CGPA : 8.91
@@ -24,10 +24,9 @@
 
 <!-- --------------------------------------- -->
 
-<details>
-<summary>Work Experience</summary>
-
 # Work Experience
+<details>
+<summary>Click to reveal</summary>
 
 ## VirtualPixel (ForeExcel) : _April 2020 to October 2020_
 
@@ -59,10 +58,10 @@
 <!-- --------------------------------------- -->
 
 
-<details>
-<summary>Skills</summary>
-
 # Skills
+<details>
+<summary>Click to reveal</summary>
+
 - **Programming Languages** : Java, Python, Bash, Typescript, Javascript
 
 - **Tools** : Postman, Git, Kibana, Docker
@@ -73,26 +72,34 @@
 
 - **Database** : Oracle Database (SQL and PL/SQL)
 
+- **Project Managment And Knowledge Base** : Jira, Confluence
+
 </details>
 
 <!-- ---------------------- -->
 
 
 
-<details>
-<summary>Professional Certificates</summary>
-
 # Professional Certificates
-- Oracle Cloud Associate
+<details>
+<summary>Click to reveal</summary>
+
+- [Oracle Cloud Infrastructure 2023 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3A2C774F714684AA2DD65391B09C0F7CF9FE6B1663836783EBCBF2700126A92B)
+  - Issued : Jan 2024
+  - Expires : Jan 2026
 
 </details>
 
 <!-- ---------------------------------- -->
 
-<details>
-<summary>Miscellaneous</summary>
 
-# Miscellaneous
-- Volunteered at 
+# Achievements, Volunteering and Others
+
+<details>
+<summary>Click to reveal</summary>
+
+- **Oracle SPOT Award** : Received recognition as a new hire from Software Engineering Director and Vice President of the project and 100 USD award for quickly adapting and delivering features on codebase that contained complex functionality
+
+- **Oracle Environment Focus Month (19 March 2025)** : Volunteered with the "Way For Life" organization to help create Eco-friendly pens for government schools by crafting sturdy, low-cost pen bodies from newspaper and glue, reducing plastic use by enclosing basic pen refills.
 
 </details>
