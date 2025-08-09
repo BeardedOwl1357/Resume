@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>CV</title>
+
+  <!-- GitHub Markdown CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
+
+  <!-- Your custom CSS -->
+  <link rel="stylesheet" href="CV.css">
+</head>
+<body>
+  <!-- Reading progress bar -->
+  <div id="progress-container"><div id="progress-bar"></div></div>
+
+  <button id="theme-toggle">🌙</button>
+  <div id="content" class="markdown-body"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    // Load and render Markdown
+    const now = new Date();
+    const options = { month: 'long', year: 'numeric' };
+    const formatted = now.toLocaleDateString('en-US', options);
+    fetch('CV.md')
+      .then(r => r.text())
+      .then(md => md.replace("{TODAY}", formatted))
+      .then(md => document.getElementById('content').innerHTML = marked.parse(md));
+
+    // Theme toggle
+    const btn = document.getElementById('theme-toggle');
+    btn.onclick = () => {
+      document.body.classList.toggle('dark');
+      btn.textContent = document.body.classList.contains('dark') ? '☀️' : '🌙';
+    };
+
+// Reading progress logic
+window.addEventListener('scroll', () => {
+    const scrollTop = window.scrollY;
+    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    const scrolled = (scrollTop / docHeight) * 100;
+    document.getElementById('progress-bar').style.width = scrolled + '%';
+});
+
+  </script>
+</body>
+</html>
