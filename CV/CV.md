@@ -59,6 +59,12 @@
 
 - Utilized **Unreal Engine 4** for design and development, **creating and implementing 5+ gameplay mechanics**. Assessed their feasibility through prototype creation.
 
+- Deliverables:
+  - Gamejams (worked with Nikhil, Akash and Rahul. Projects are mentioned on his page : https://www.linkedin.com/in/nikhilmaurya17/details/projects/)
+    - https://www.artstation.com/artwork/mDv1W9
+    - https://www.artstation.com/artwork/68wxB6
+  - My artstation : https://beardedowl.artstation.com/
+
 </details>
 
 <!-- --------------------------------------- -->
@@ -116,5 +122,6 @@
 - **Oracle SPOT Award** : Received recognition as a new hire from Software Engineering Director and Vice President of the project and 100 USD award for quickly adapting and delivering features on codebase that contained complex functionality
 
 - **Oracle Environment Focus Month (19 March 2025)** : Volunteered with the "Way For Life" organization to help create Eco-friendly pens for government schools by crafting sturdy, low-cost pen bodies from newspaper and glue, reducing plastic use by enclosing basic pen refills.
+
 
 </details>
